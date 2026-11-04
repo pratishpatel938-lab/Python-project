@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PS 54 – Hangman Game
 
 **University:** Rungta International Skills University
@@ -74,3 +75,6 @@ Wrong guesses: 2/6
 3. Validate the input; reject non-letters and multi-character input.
 4. Ignore repeated letters (no penalty); otherwise mark Correct or Wrong.
 5. Print the final result and the wrong-guess count.
+=======
+# Python-first-project
+>>>>>>> d30d9de945155af14bbde9565b26acb8805bef88
